@@ -1,0 +1,41 @@
+<div align="center"><b>Wiki-Lyrics v0.9.2</b></div>
+
+<p>
+<b>About:</b><br/>
+A collection of lyrics scripts to interface with various sites and, optionally, submit content to <b>Lyriki.com</b> or <b>LyricWiki.org</b> (wikis for lyrics). All of these scripts can query the other ones when they can't provide the lyrics for a song.
+</p>
+
+<p>
+<b>Supported sites:</b><br/>
+<ul>
+<li><b>Lyriki</b> (www.lyriki.com)</li>
+<li><b>LyricWiki</b> (www.lyricwiki.org)</li>
+<li><b>AZ Lyrics</b> (www.azlyrics.com)</li>
+<li><b>Baidu MP3</b> (mp3.baidu.com)</li>
+<li><b>Jamendo</b> (www.jamendo.com)</li>
+<li><b>Giitaayan</b> (www.giitaayan.com)</li>
+<li><b>Leos Lyrics</b> (www.leoslyrics.com)</li>
+<li><b>Lyrc</b> (lyrc.com.ar)</li>
+<li><b>Not Popular</b> (www.notpopular.com)</li>
+<li><b>Sing365</b> (www.sing365.com)</li>
+<li><b>Terra Letras</b> (letras.terra.com.br)</li>
+</ul>
+</p>
+
+<p>
+<b>Dependencies:</b><br>
+<ul>
+<li>Amarok 1.4</li>
+<li>Ruby 1.8</li>
+<li>QtRuby, Ruby/GTK or Ruby/Tk</li>
+</ul>
+</p>
+
+<p>
+<b>Authors:</b><br>
+<ul>
+<li>Sergio Pistone (sergio_pistone@yahoo.com.ar)</li>
+<li>Eduardo Robles Elvira (edulix@gmail.com) (Jamendo)</li>
+<li>Swapan Sarkar (swapan@yahoo.com) (Giitaayan)</li>
+</ul>
+</p>

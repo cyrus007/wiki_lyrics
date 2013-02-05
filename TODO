@@ -1,0 +1,2 @@
+* implement undo stack for gtk and tk dialogs
+* try to guess the title language (and apply proper capitalization)

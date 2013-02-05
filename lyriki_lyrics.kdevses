@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="0" />
+ <pluginList>
+  <kdevbookmarks>
+   <bookmarks/>
+  </kdevbookmarks>
+  <kdevrbdebugger>
+   <breakpointList>
+    <breakpoint0 location="/root/Desktop/RUBY/lyriki_lyrics/test.rb:6" type="1" enabled="0" />
+   </breakpointList>
+   <watchExpressions/>
+  </kdevrbdebugger>
+ </pluginList>
+</KDevPrjSession>
